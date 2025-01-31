@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "my-project",
-    "slug": "my-project",
+    "slug": "xcxvcxvxx",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "069e73b5-2874-46f3-9375-3a07195d540a"
+      }
+    },
+    "owner": "yhwxch"
   }
 }
